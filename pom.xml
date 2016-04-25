@@ -33,5 +33,7 @@
 		<module>servlet-hello</module>
 		<module>servlet-form</module>
     <module>servlet-header</module>
+    <module>servlet-request</module>
+    <module>servlet-response</module>
   </modules>
 </project>
