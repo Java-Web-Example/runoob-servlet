@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * 
+ * Get parameter values
  * 
  * @author 	Lian
  * @date	2016年4月21日

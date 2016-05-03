@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * HelloWorld Servlet
+ * Servlet简单实例: HelloWorld
  * 
  * @author 	Lian
  * @date	2016年4月21日
@@ -18,12 +18,15 @@ import javax.servlet.http.HttpServletResponse;
  */
 @WebServlet("/hello")
 public class HelloWorld extends HttpServlet {
+
 	private static final long serialVersionUID = 1L;
 
 	private String message;
 
 	/**
 	 * init HelloWorld Servlet
+	 * this method is created for the first time invoked and only once
+	 * 
 	 * @throws ServletException
 	 */
 	@Override
@@ -33,6 +36,7 @@ public class HelloWorld extends HttpServlet {
 
 	/**
 	 * handle http get request
+	 * 
 	 * @param request
 	 * @param response
 	 * @throws ServletException

@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * 
+ * Use servlet to handle form data
  * 
  * @author 	Lian
  * @date	2016年4月21日

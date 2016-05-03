@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * 
+ * 复选框的选择
  * 
  * @author 	Lian
  * @date	2016年4月21日
