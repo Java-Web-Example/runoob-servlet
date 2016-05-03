@@ -37,5 +37,6 @@
 		<module>servlet-request</module>
 		<module>servlet-response</module>
 		<module>servlet-status</module>
+		<module>servlet-mail</module>
 	</modules>
 </project>
